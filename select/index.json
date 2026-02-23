@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "硝子窓",
+  "base_artist": "King Gnu",
+  "createdAt": "2026-02-23T03:46:19.241680Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "硝子窓",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/01_硝子窓_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "硝子窓",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/02_硝子窓_King_Gnu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "硝子窓",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_硝子窓_King_Gnu.txt"
+    }
+  ]
+}
